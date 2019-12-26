@@ -1,0 +1,6 @@
+.idea/
+venv/
+*.pyc
+geckodriver
+geckodriver.log
+.DS_Store

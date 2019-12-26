@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0be1c7c8-ef3d-45c4-9d2e-28fa65468f5f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Gherkin feature file" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Ucc8P6HLMSwCqSoHsgfZDtxC0w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Features/steps" />
+      <recent name="$PROJECT_DIR$/Features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Behave.search_result.feature:search product ,verify result and add to cart">
+    <configuration name="search_result.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="Flipkart_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/Features/tests/search_result.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_result.feature:search product ,verify result and add to cart" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="Flipkart_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/Features/tests/search_result.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="search product ,verify result and add to cart" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="environment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Flipkart_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Features" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Features/environment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Behave.search_result.feature:search product ,verify result and add to cart" />
+        <item itemvalue="Behave.search_result.feature" />
+        <item itemvalue="Python.environment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0be1c7c8-ef3d-45c4-9d2e-28fa65468f5f" name="Default Changelist" comment="" />
+      <created>1575656105257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575656105257</updated>
+      <workItem from="1575659167146" duration="10456000" />
+      <workItem from="1575916032173" duration="14655000" />
+      <workItem from="1576839438817" duration="12462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1577187629759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1398" height="406" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575934646368" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577187629759" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1577187629759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1398" height="406" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575934646366" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577187629759" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1577187629758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1398" height="406" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575934646365" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577187629758" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1577187629759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1398" height="406" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575934646367" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577187629759" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1575932303574">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575932303574" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1575932292564" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1575932303573">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1575932303573" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1575932292563" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1575932303572">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1575932303572" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1575932292561" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1575932303573">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1575932303573" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1575932292563" />
+    <state x="244" y="81" key="SettingsEditor" timestamp="1576839483180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575659574942" />
+    <state x="244" y="81" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576839483179" />
+    <state x="399" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1575659168168">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="399" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1575659168168" />
+    <state x="477" y="378" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1575660887790">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="477" y="378" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1575660887790" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Flipkart_Automation$environment.coverage" NAME="environment Coverage Results" MODIFIED="1575931880820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Features" />
+    <SUITE FILE_PATH="coverage/Flipkart_Automation$search_result_feature.coverage" NAME="search_result.feature Coverage Results" MODIFIED="1577187437877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Flipkart_Automation$search_result_feature_search_product__verify_result_and_add_to_cart.coverage" NAME="search_result.feature:search product ,verify result and add to cart Coverage Results" MODIFIED="1577187581712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
